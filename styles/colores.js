@@ -30,3 +30,10 @@ export const secundarios = {
     gris, 
     blanco
 }
+
+const color = {
+    primarios,
+    secundarios
+}
+
+export default color;
